@@ -2,7 +2,7 @@
 
 📌 Nome: Alexsandro<br>
 📌 Estudando: Java<br>
-📌 Cursando: Analise e Desenvolvimento de Sistemas<br>
+📌 Cursando: Analise e Desenvolvimento de Sistemas | 2 Período<br>
 📌 Contato: Alexsandro.acs98@gmail.com<br>
 📌 Curiosidade sobre mim: Gosto de Bike e de estudar Biologia em específico Citologia e Bioquímica nas horas vagas. 
 
