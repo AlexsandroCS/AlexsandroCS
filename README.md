@@ -1,7 +1,7 @@
 ### Olá. Me chamo Alexsandro e seja bem vindo ao meu github! 👋
 
 📌 Nome: Alexsandro<br>
-📌 Estudando: Docker.<br>
+📌 Estudando: C# e Javascript.<br>
 📌 Cursando: Analise e Desenvolvimento de Sistemas | 4 Período.<br>
 📌 Contato: Alexsandro.acs98@gmail.com<br>
 📌 Curiosidade sobre mim: Gosto de Bike e de estudar Biologia em específico Citologia e Bioquímica nas horas vagas.<br>
