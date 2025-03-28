@@ -1,8 +1,8 @@
 ### Olá! Me chamo Alexsandro e seja bem vindo ao meu github!
 
-📝 **Estudando:** AWS e Apache Spark
+📝 **Estudando:** Power BI, AWS e Apache Spark
 
-📚 **Cursando:** Analise e Desenvolvimento de Sistemas | 5 Período.
+📚 **Formado em:** Analise e Desenvolvimento de Sistemas
 
 🔎 **Como me encontrar:** **Email:** alexsandro.acs98@gmail.com e **Linkedin:** https://www.linkedin.com/in/alexsandrocs/
 
